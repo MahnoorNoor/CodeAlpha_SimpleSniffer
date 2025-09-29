@@ -1,0 +1,3 @@
+Packet counts from capture.pcap
+UDP: 20
+NON_IP: 21
